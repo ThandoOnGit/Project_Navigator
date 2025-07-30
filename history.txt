@@ -1,0 +1,23 @@
+ 370  git clone https://github.com/ThandoOnGit/Project_Navigator.git
+  371  cd Project-Navigator
+  372  mkdir Project-Navigator
+  373  cd Project-Navigator
+  374* touch Project-Purposetxt
+  375  nano Project-Purpose.txt
+  376  code .
+  377  git init
+  378  git add .
+  379  git commit -m "Project folder and text file summary"
+  380  git push
+  381  git push origin master
+  382  git clone https://github.com/ThandoOnGit/Project_Navigator.git
+  383  git init
+  384  git add .
+  385  git commit -m "Project folder and text file summary"
+  386  git push origin master
+  387  git push
+  388  cd ..
+  389  cd Project-Navigator
+  390  pwd
+  391  ls
+  392  history
