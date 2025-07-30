@@ -1,4 +1,4 @@
- 370  git clone https://github.com/ThandoOnGit/Project_Navigator.git
+   370  git clone https://github.com/ThandoOnGit/Project_Navigator.git
   371  cd Project-Navigator
   372  mkdir Project-Navigator
   373  cd Project-Navigator
@@ -21,3 +21,42 @@
   390  pwd
   391  ls
   392  history
+  393  nano history.txt
+  394  cd ..
+  395  cd Project_Navigator
+  396  nano setup.sh
+  397  chmod +x setup.sh
+  398  ./setup.sh
+  399  git init
+  400  git add .
+  401  git commit -m "Project folder and text file summary"
+  402  git push
+  403  nano history.txt
+  404  nano history.txt
+  405  git init
+  406  git add .
+  407  git commit -m " History text file"
+  408  git push
+  409  mkdir Project-Navigator
+  410  nano setup.sh
+  411  ./setup.sh
+  412  cat Project-Prpose.txt
+  413  cat Project-Purpose.txt
+  414  cat setup.sh
+  415  mv Project-Purpose.txt Project-Navigator
+  416  git init
+  417  git add .
+  418  git commit -m " Shell file edits"
+  419  git push
+  420  ./setup.sh
+  421  nano setup.sh
+  422  nano setup.sh
+  423  ./setup.sh
+  424  mv history.txt Project-Navigator
+  425  git init
+  426  git add .
+  427  git commit -m " Move history file and shell edits"
+  428  git push
+  429  nano setup.sh
+  430  history
+
